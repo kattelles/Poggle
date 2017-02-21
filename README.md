@@ -1,5 +1,5 @@
 ## Poggle
-[Live Version](https://github.com/jbt/markdown-editor)
+To run: `npm start` in project directory. Open localhost:3000.
 
 This is a basic (and much easier) version of the class game Boggle. It is built using React, HTML, and CSS.
 
