@@ -1,5 +1,5 @@
 ## Poggle
-To run: `npm start` in project directory. Open localhost:3000.
+To run: `npm install` and `npm start` in project directory. (localhost:3000 will open automatically in your browser)
 
 This is a basic (and much easier) version of the class game Boggle. It is built using React, HTML, and CSS.
 
